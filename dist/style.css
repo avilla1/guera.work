@@ -1,0 +1,90 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+   background: #FDD835;
+}
+
+h5:hover {
+   background-color: transparent;
+}
+
+h1, h2, h3, h4, h5, h6, li {
+   color: #424242;
+   font-family: 'Abril Fatface', cursive;
+}
+
+.title {
+   letter-spacing: .1em;
+}
+
+p {
+   color: #424242;
+   font-family: 'Raleway', sans-serif;
+}
+
+#about p, #about h4, .modal-content h3, .modal-content h4, .item-description div {
+   color: #FFFFFF;
+}
+
+#stuff {
+   padding: 15%;
+}
+
+.item-description-left {
+   font-weight: bold;
+}
+
+.modal-content {
+   width: 80%;
+}
+
+.modal-content {
+  background:#424242;
+  padding:1.5em;
+  line-height:1.5em;
+}
+
+div .work-item {
+   background-color: transparent;
+   border: solid 2px #424242;
+   color: #424242;
+}
+
+.preview img {
+   width: 45%;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+
+.reverse-text {
+   background-color: #424242;
+   padding: 5%;
+}
+
+.button {
+   color: #ffffff;
+   font-family: 'Abril Fatface', cursive;
+   background-color: #424242;
+   border: none;
+   padding: 20px;
+   margin: 20px;
+}
+
+.navbar {
+   background-color: transparent;
+   margin: 20px;
+}
+
+logo {
+   padding: 20px;
+}
+
+h5 {
+   padding-top: 5%;
+}
+
+.footer {
+   background-color: transparent;
+}
